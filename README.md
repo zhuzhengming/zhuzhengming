@@ -2,22 +2,22 @@
 - 📫 contact me: Zhu_Zhengming@outlook.com or 1548467606@qq.com
 
 <div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
 </div>
 
 <div align="center">
