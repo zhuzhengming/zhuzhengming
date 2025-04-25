@@ -1,5 +1,5 @@
 - 👋 I’m Zhu Zhengming
-- 📫 contact me: Zhu_Zhengming@outlook.com or zhzhu@kth.se
+- 📫 contact me: Zhu_Zhengming@outlook.com or zhzhu@kth.se or zhengming.zhu@epfl.ch
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
